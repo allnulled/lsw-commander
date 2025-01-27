@@ -1,0 +1,14 @@
+{
+  "name": "lsw-commander",
+  "version": "1.0.0",
+  "description": "Commander tool for Lite Starter Webkit.",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'no building for @allnulled/lsw-commander'",
+    "versionate": "echo 'no versionate for @allnulled/lsw-commander'",
+    "test": "echo 'no test for @allnulled/lsw-commander'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
